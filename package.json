@@ -1,0 +1,23 @@
+{
+  "name": "@fieldify/mongoose",
+  "version": "1.0.0",
+  "description": "Adapted Mongoose / MongoDB Types to map Fieldify Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fieldify/mongoose.git"
+  },
+  "author": "Michael Vergoz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Fieldify/mongoose/issues"
+  },
+  "homepage": "https://github.com/Fieldify/mongoose#readme",
+  "dependencies": {
+    "fieldify": "^1.1.0",
+    "mongoose": "^5.9.15"
+  }
+}
